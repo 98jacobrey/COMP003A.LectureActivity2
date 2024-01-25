@@ -31,7 +31,7 @@ namespace COMP003A.LectureActivity2
             int b;
 
             a = 5;
-            b - 2;
+            b = 2;
             Console.WriteLine("The current value of a: " + a);
             Console.WriteLine("The current value of b " + b);
 
